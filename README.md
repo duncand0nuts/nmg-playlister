@@ -1,6 +1,6 @@
 # nmg-playlister
 
-~~~A python webapp to create youtube playlists from facebook group comment threads~~~
+~A python webapp to create youtube playlists from facebook group comment threads~
 Because sometimes awesome threads have tons of good tracks posted up on them but I never get round to clicking through all of them.
 
 
